@@ -1,0 +1,9 @@
+--- Level 7 Stronghold Coordinates ---
+Sorted by X-group (0-99, 100-199, ...) then by Y-axis
+
+(499, 477)
+(495, 478)
+(463, 512)
+(488, 528)
+(518, 496)
+(502, 515)

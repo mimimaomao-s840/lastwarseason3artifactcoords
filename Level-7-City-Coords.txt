@@ -1,0 +1,7 @@
+--- Level 7 City Coordinates ---
+Sorted by X-group (0-99, 100-199, ...) then by Y-axis
+
+(463, 462)
+(470, 544)
+(535, 466)
+(535, 538)
